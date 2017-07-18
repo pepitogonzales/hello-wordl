@@ -1,3 +1,4 @@
 # hello-wordl
 primer proyecto
-de mi vida de programcion 
+
+estoy iniciando en el mundo de la programacion
